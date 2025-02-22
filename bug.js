@@ -1,0 +1,1 @@
+While developing an Expo managed workflow application, I encountered an unusual error related to the interaction between the `expo prebuild` command and the presence of specific dependencies in the project's `package.json`. The error manifested only on certain machines and only when running `expo prebuild` before building the application for Android.
